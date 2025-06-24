@@ -21,7 +21,7 @@ This project demonstrates **player detection and tracking** in sports videos usi
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 1. **Clone the repository:**
 cmd
